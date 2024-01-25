@@ -20,6 +20,20 @@ assignments = {
       "dueDate": "2024-01-24T23:59:00",
       "link": "https://www.gradescope.com/courses/701300/assignments/3978472/submissions/224154530",
       "submitted": true
+    },
+    {
+      "title": "Hog Checkpoint",
+      "course": "CS 61A",
+      "dueDate": "2024-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
+      "title": "Hog",
+      "course": "CS 61A",
+      "dueDate": "2024-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [],
