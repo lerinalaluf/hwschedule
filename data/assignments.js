@@ -36,7 +36,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "ECON 2": [],
+  "ECON 2": [
+    {
+      "title": "PS1",
+      "course": "ECON 2",
+      "dueDate": "2024-02-04T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
+    }
+  ],
   "Math 53 Section 210": [
     {
       "title": "Homework 1",
