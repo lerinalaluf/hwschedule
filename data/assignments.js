@@ -32,8 +32,8 @@ assignments = {
       "title": "Hog",
       "course": "CS 61A",
       "dueDate": "2024-02-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4002350/submissions/224789548",
+      "submitted": true
     }
   ],
   "ECON 2": [
