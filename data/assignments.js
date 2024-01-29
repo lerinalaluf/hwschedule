@@ -1,13 +1,6 @@
 assignments = {
   "CS 61A": [
     {
-      "title": "Discussion Attendance",
-      "course": "CS 61A",
-      "dueDate": "2024-05-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
-    },
-    {
       "title": "Lab 0",
       "course": "CS 61A",
       "dueDate": "2024-01-24T23:59:00",
@@ -41,6 +34,13 @@ assignments = {
       "dueDate": "2024-02-07T23:59:00",
       "link": "https://www.gradescope.com/courses/701300/assignments/4002350/submissions/224789548",
       "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "CS 61A",
+      "dueDate": "2024-02-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [
