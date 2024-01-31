@@ -1,6 +1,13 @@
 assignments = {
   "CS 61A": [
     {
+      "title": "Discussion Attendance",
+      "course": "CS 61A",
+      "dueDate": "2024-05-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
       "title": "Lab 0",
       "course": "CS 61A",
       "dueDate": "2024-01-24T23:59:00",
