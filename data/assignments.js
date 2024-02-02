@@ -87,8 +87,8 @@ assignments = {
       "title": "Homework 2",
       "course": "Physics 5A",
       "dueDate": "2024-02-02T17:00:00",
-      "link": "https://www.gradescope.com/courses/715569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/715569/assignments/4042229/submissions/226855080",
+      "submitted": true
     }
   ]
 };
