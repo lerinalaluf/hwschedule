@@ -57,6 +57,27 @@ assignments = {
       "dueDate": "2024-02-04T23:55:00",
       "link": "https://www.gradescope.com/courses/718982/assignments/4002648/submissions/226559818",
       "submitted": true
+    },
+    {
+      "title": "PS2",
+      "course": "ECON 2",
+      "dueDate": "2024-02-11T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
+    },
+    {
+      "title": "PS3",
+      "course": "ECON 2",
+      "dueDate": "2024-02-05T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
+    },
+    {
+      "title": "PS4",
+      "course": "ECON 2",
+      "dueDate": "2024-02-25T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
     }
   ],
   "Math 53 Section 210": [
