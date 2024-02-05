@@ -80,6 +80,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "MATH 53 LEC 2": [],
   "Math 53 Section 210": [
     {
       "title": "Homework 1",
