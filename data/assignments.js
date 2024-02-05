@@ -68,7 +68,7 @@ assignments = {
     {
       "title": "PS3",
       "course": "ECON 2",
-      "dueDate": "2024-02-05T23:55:00",
+      "dueDate": "2024-02-18T23:55:00",
       "link": "https://www.gradescope.com/courses/718982",
       "submitted": false
     },
