@@ -53,15 +53,15 @@ assignments = {
       "title": "Homework 3",
       "course": "CS 61A",
       "dueDate": "2024-02-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4034688/submissions/230451435",
+      "submitted": true
     },
     {
       "title": "Lab 3",
       "course": "CS 61A",
-      "dueDate": "2024-02-14T11:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "dueDate": "2024-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300/assignments/4096227/submissions/230448734",
+      "submitted": true
     }
   ],
   "ECON 2": [
