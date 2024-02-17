@@ -74,8 +74,8 @@ assignments = {
       "title": "Cats",
       "course": "CS 61A",
       "dueDate": "2024-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4106532/submissions/231738991",
+      "submitted": true
     }
   ],
   "ECON 2": [
