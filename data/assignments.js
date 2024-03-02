@@ -172,6 +172,13 @@ assignments = {
       "dueDate": "2024-02-26T23:59:00",
       "link": "https://www.gradescope.com/courses/716649/assignments/4159252/submissions/234546818",
       "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "Math 53 Section 210",
+      "dueDate": "2024-03-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/716649",
+      "submitted": false
     }
   ],
   "Physics 5A": [
