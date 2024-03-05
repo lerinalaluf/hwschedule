@@ -123,8 +123,8 @@ assignments = {
       "title": "Ants Checkpoint 1",
       "course": "CS 61A",
       "dueDate": "2024-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4195570/submissions/236736417",
+      "submitted": true
     },
     {
       "title": "Ants Checkpoint 2",
