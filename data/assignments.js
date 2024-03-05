@@ -102,13 +102,34 @@ assignments = {
       "title": "Homework 5",
       "course": "CS 61A",
       "dueDate": "2024-03-07T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4185863/submissions/236705578",
+      "submitted": true
     },
     {
       "title": "Lab 6",
       "course": "CS 61A",
       "dueDate": "2024-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300/assignments/4194500/submissions/236695751",
+      "submitted": true
+    },
+    {
+      "title": "Ants",
+      "course": "CS 61A",
+      "dueDate": "2024-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
+      "title": "Ants Checkpoint 1",
+      "course": "CS 61A",
+      "dueDate": "2024-03-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
+      "title": "Ants Checkpoint 2",
+      "course": "CS 61A",
+      "dueDate": "2024-03-12T23:59:00",
       "link": "https://www.gradescope.com/courses/701300",
       "submitted": false
     }
