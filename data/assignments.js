@@ -116,8 +116,8 @@ assignments = {
       "title": "Ants",
       "course": "CS 61A",
       "dueDate": "2024-03-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4195554/submissions/236916434",
+      "submitted": true
     },
     {
       "title": "Ants Checkpoint 1",
@@ -130,8 +130,8 @@ assignments = {
       "title": "Ants Checkpoint 2",
       "course": "CS 61A",
       "dueDate": "2024-03-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4196991/submissions/236903196",
+      "submitted": true
     }
   ],
   "ECON 2": [
