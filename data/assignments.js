@@ -139,6 +139,13 @@ assignments = {
       "dueDate": "2024-03-14T23:59:00",
       "link": "https://www.gradescope.com/courses/701300/assignments/4215933/submissions/237990983",
       "submitted": true
+    },
+    {
+      "title": "Lab 7",
+      "course": "CS 61A",
+      "dueDate": "2024-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [
