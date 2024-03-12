@@ -183,6 +183,13 @@ assignments = {
       "dueDate": "2024-03-10T23:55:00",
       "link": "https://www.gradescope.com/courses/718982/assignments/4164064/submissions/238180909",
       "submitted": true
+    },
+    {
+      "title": "PS6",
+      "course": "ECON 2",
+      "dueDate": "2024-03-24T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
     }
   ],
   "MATH 53 LEC 2": [],
