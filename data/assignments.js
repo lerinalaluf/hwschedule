@@ -181,6 +181,20 @@ assignments = {
       "dueDate": "2024-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/701300",
       "submitted": false
+    },
+    {
+      "title": "Scheme Checkpoint 1",
+      "course": "CS 61A",
+      "dueDate": "2024-04-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
+      "title": "Scheme Checkpoint 2",
+      "course": "CS 61A",
+      "dueDate": "2024-04-15T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [
