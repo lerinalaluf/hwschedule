@@ -186,8 +186,8 @@ assignments = {
       "title": "Scheme Checkpoint 1",
       "course": "CS 61A",
       "dueDate": "2024-04-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4340298/submissions/245982302",
+      "submitted": true
     },
     {
       "title": "Scheme Checkpoint 2",
@@ -253,6 +253,13 @@ assignments = {
       "dueDate": "2024-04-07T23:55:00",
       "link": "https://www.gradescope.com/courses/718982/assignments/4309503/submissions/244870293",
       "submitted": true
+    },
+    {
+      "title": "PS8",
+      "course": "ECON 2",
+      "dueDate": "2024-04-14T23:55:00",
+      "link": "https://www.gradescope.com/courses/718982",
+      "submitted": false
     }
   ],
   "MATH 53 LEC 2": [],
