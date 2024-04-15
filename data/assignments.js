@@ -202,6 +202,20 @@ assignments = {
       "dueDate": "2024-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/701300",
       "submitted": false
+    },
+    {
+      "title": "Homework 9",
+      "course": "CS 61A",
+      "dueDate": "2024-04-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
+    },
+    {
+      "title": "Lab 11",
+      "course": "CS 61A",
+      "dueDate": "2024-04-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [
