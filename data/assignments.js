@@ -193,8 +193,8 @@ assignments = {
       "title": "Scheme Checkpoint 2",
       "course": "CS 61A",
       "dueDate": "2024-04-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4340382/submissions/247988953",
+      "submitted": true
     },
     {
       "title": "Scheme",
