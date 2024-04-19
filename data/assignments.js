@@ -200,8 +200,8 @@ assignments = {
       "title": "Scheme",
       "course": "CS 61A",
       "dueDate": "2024-04-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/701300",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/701300/assignments/4340878/submissions/248013589",
+      "submitted": true
     },
     {
       "title": "Homework 9",
