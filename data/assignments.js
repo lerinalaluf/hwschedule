@@ -230,6 +230,13 @@ assignments = {
       "dueDate": "2024-04-24T23:59:00",
       "link": "https://www.gradescope.com/courses/701300/assignments/4397279/submissions/249481939",
       "submitted": true
+    },
+    {
+      "title": "Scheme Contest",
+      "course": "CS 61A",
+      "dueDate": "2024-04-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/701300",
+      "submitted": false
     }
   ],
   "ECON 2": [
