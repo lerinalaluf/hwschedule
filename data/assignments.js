@@ -480,8 +480,8 @@ assignments = {
       "title": "Homework 14",
       "course": "Physics 5A",
       "dueDate": "2024-04-29T17:00:00",
-      "link": "https://www.gradescope.com/courses/715569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/715569/assignments/4421336/submissions/252239519",
+      "submitted": true
     }
   ]
 };
