@@ -15,6 +15,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Quiz for the End of Module 2",
+      "course": "Math W53 Summer 2024",
+      "dueDate": "2024-07-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/743617/assignments/4606833/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Another practice",
       "course": "Math W53 Summer 2024",
       "dueDate": "2024-08-09T20:05:00",
