@@ -32,8 +32,8 @@ assignments = {
       "title": "Quiz for the End of Module 3",
       "course": "Math W53 Summer 2024",
       "dueDate": "2024-07-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/743617/assignments/4629009/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/743617/assignments/4629009/submissions/260433991",
+      "submitted": true
     }
   ]
 };
