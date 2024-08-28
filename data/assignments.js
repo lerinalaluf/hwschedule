@@ -31,6 +31,13 @@ assignments = {
   ],
   "CS 70": [
     {
+      "title": "Mini-Vitamin 0B",
+      "course": "CS 70",
+      "dueDate": "2024-08-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/4835238/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Homework 0",
       "course": "CS 70",
       "dueDate": "2024-08-31T16:00:00",
