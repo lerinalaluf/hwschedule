@@ -29,13 +29,6 @@ assignments = {
       "dueDate": "2024-08-31T16:00:00",
       "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
-    },
-    {
-      "title": "Mini-Vitamin 1B",
-      "course": "CS 70",
-      "dueDate": "2024-08-31T09:30:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
     }
   ]
 };
