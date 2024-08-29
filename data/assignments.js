@@ -25,8 +25,8 @@ assignments = {
       "title": "Lab 01",
       "course": "CS 61B",
       "dueDate": "2024-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/4835048/submissions/263242046",
+      "submitted": true
     }
   ],
   "CS 70": [
@@ -34,8 +34,8 @@ assignments = {
       "title": "Mini-Vitamin 0B",
       "course": "CS 70",
       "dueDate": "2024-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/4835238/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/4835238/submissions/263243446",
+      "submitted": true
     },
     {
       "title": "Homework 0",
