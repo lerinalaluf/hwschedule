@@ -4,8 +4,8 @@ assignments = {
       "title": "Homework 0A",
       "course": "CS 61B",
       "dueDate": "2024-08-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/4835024/submissions/263270211",
+      "submitted": true
     },
     {
       "title": "Homework 0B",
