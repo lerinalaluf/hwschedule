@@ -79,5 +79,154 @@ assignments = {
       "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
     }
+  ],
+  "Physics 5BL": [
+    {
+      "title": "Lab report submission - Tier 1: Hooke's Law",
+      "course": "Physics 5BL",
+      "dueDate": "2024-03-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Prelab I.M1 ",
+      "course": "Physics 5BL",
+      "dueDate": "2024-09-04T11:10:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Prelab - Intro Lab 2: Pendulums",
+      "course": "Physics 5BL",
+      "dueDate": "2024-01-26T12:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report Draft - Lab 7",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Prelab - Intro EM1: DC",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-26T10:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Prelab - Intro Lab 3: Densities and g",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab worksheet submission - Intro EM1: DC",
+      "course": "Physics 5BL",
+      "dueDate": "2024-03-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report - Intro Lab 6: Torsional pendulum",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report - Intro Lab 2: Pendulum",
+      "course": "Physics 5BL",
+      "dueDate": "2024-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report - Intro Lab 3: Densities and g",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab I.M1 (aka Intro Lab #1) Worksheet",
+      "course": "Physics 5BL",
+      "dueDate": "2024-09-11T19:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Capstone Proposal",
+      "course": "Physics 5BL",
+      "dueDate": "2024-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab report submission - Tier 2: EM-Faraday's Law",
+      "course": "Physics 5BL",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Worksheet submission - Intro EM2: AC",
+      "course": "Physics 5BL",
+      "dueDate": "2024-03-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab report submission - Tier 1: RC/RLC",
+      "course": "Physics 5BL",
+      "dueDate": "2024-03-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Capstone Presentation",
+      "course": "Physics 5BL",
+      "dueDate": "2024-04-25T09:30:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab report submission - Tier 2: Standing Waves",
+      "course": "Physics 5BL",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report - Intro Lab 4: Spring constant",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Prelab - Intro Lab 6: Torsional pendulum",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-12T10:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report - Intro Lab 5: Static friction",
+      "course": "Physics 5BL",
+      "dueDate": "2024-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
+      "title": "Capstone Report",
+      "course": "Physics 5BL",
+      "dueDate": "2024-05-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    }
   ]
 };
