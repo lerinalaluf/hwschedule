@@ -92,8 +92,8 @@ assignments = {
       "title": "Prelab I.M1 ",
       "course": "Physics 5BL",
       "dueDate": "2024-09-04T11:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856535/submissions/264142665",
+      "submitted": true
     },
     {
       "title": "Prelab - Intro Lab 2: Pendulums",
@@ -155,8 +155,8 @@ assignments = {
       "title": "Lab I.M1 (aka Intro Lab #1) Worksheet",
       "course": "Physics 5BL",
       "dueDate": "2024-09-11T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856544/submissions/264142565",
+      "submitted": true
     },
     {
       "title": "Capstone Proposal",
