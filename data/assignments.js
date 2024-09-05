@@ -155,7 +155,7 @@ assignments = {
       "title": "Lab I.M1 (aka Intro Lab #1) Worksheet",
       "course": "Physics 5BL",
       "dueDate": "2024-09-11T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578/assignments/4856544/submissions/264142565",
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856544/submissions/264721978",
       "submitted": true
     },
     {
