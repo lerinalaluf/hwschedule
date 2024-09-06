@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CS 61B",
       "dueDate": "2024-09-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/4879194/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/4879194/submissions/264969354",
+      "submitted": true
     },
     {
       "title": "Project 1A: LinkedListDeque",
