@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2024-09-13T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
       "submitted": false
+    },
+    {
+      "title": "[UNGRADED] Project 1A: LinkedListDeque Test Coverage",
+      "course": "CS 61B",
+      "dueDate": "2024-09-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
