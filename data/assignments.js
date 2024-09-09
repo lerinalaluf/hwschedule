@@ -122,6 +122,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "Physics 5B": [],
   "Physics 5BL": [
     {
       "title": "Lab report submission - Tier 1: Hooke's Law",
