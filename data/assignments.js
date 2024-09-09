@@ -92,6 +92,20 @@ assignments = {
       "dueDate": "2024-09-07T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/4867304/submissions/265226819",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 2A",
+      "course": "CS 70",
+      "dueDate": "2024-09-10T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/4904817/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 2B",
+      "course": "CS 70",
+      "dueDate": "2024-09-12T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/4904826/submissions/new",
+      "submitted": false
     }
   ],
   "Physics 5BL": [
