@@ -122,7 +122,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "Physics 5B": [],
+  "Physics 5B": [
+    {
+      "title": "Assignment 1",
+      "course": "Physics 5B",
+      "dueDate": "2024-09-16T10:00:00",
+      "link": "https://www.gradescope.com/courses/861518",
+      "submitted": false
+    }
+  ],
   "Physics 5BL": [
     {
       "title": "Lab report submission - Tier 1: Hooke's Law",
