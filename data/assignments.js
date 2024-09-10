@@ -168,9 +168,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Prelab - Intro Lab 3: Densities and g",
+      "title": "Pre-Lab I.M3 (aka Intro Lab #3)",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-02T23:59:00",
+      "dueDate": "2024-09-11T11:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
