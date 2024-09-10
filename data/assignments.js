@@ -104,8 +104,8 @@ assignments = {
       "title": "Mini-Vitamin 2A",
       "course": "CS 70",
       "dueDate": "2024-09-10T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/4904817/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/4904817/submissions/266050524",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 2B",
@@ -150,8 +150,8 @@ assignments = {
       "title": "Pre-Lab I.M2 (aka Intro Lab 2): Error Propagation and Pendulums",
       "course": "Physics 5BL",
       "dueDate": "2024-09-08T11:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856536/submissions/266048604",
+      "submitted": true
     },
     {
       "title": "Lab Report Draft - Lab 7",
