@@ -171,8 +171,8 @@ assignments = {
       "title": "Pre-Lab I.M3 (aka Intro Lab #3)",
       "course": "Physics 5BL",
       "dueDate": "2024-09-11T11:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856539/submissions/266358768",
+      "submitted": true
     },
     {
       "title": "Lab worksheet submission - Intro EM1: DC",
