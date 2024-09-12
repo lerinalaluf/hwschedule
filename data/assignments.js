@@ -149,7 +149,7 @@ assignments = {
     {
       "title": "Pre-Lab I.M2 (aka Intro Lab 2): Error Propagation and Pendulums",
       "course": "Physics 5BL",
-      "dueDate": "2024-09-08T11:10:00",
+      "dueDate": "2024-09-09T11:10:00",
       "link": "https://www.gradescope.com/courses/849578/assignments/4856536/submissions/266048604",
       "submitted": true
     },
