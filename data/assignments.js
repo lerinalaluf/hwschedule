@@ -62,6 +62,20 @@ assignments = {
       "dueDate": "2024-09-13T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
       "submitted": false
+    },
+    {
+      "title": "Project 1B: ArrayDeque",
+      "course": "CS 61B",
+      "dueDate": "2024-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
+      "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
+      "course": "CS 61B",
+      "dueDate": "2024-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
