@@ -157,6 +157,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Discussion Attendance",
+      "course": "CS 70",
+      "dueDate": "2024-12-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/4969698/submissions/267981247",
+      "submitted": true
+    },
+    {
       "title": "Homework 3",
       "course": "CS 70",
       "dueDate": "2024-09-21T16:00:00",
