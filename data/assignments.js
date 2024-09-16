@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2024-09-19T19:30:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/4969595/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "CS 70",
+      "dueDate": "2024-09-21T16:00:00",
+      "link": "https://www.gradescope.com/courses/836005",
+      "submitted": false
     }
   ],
   "Physics 5B": [
