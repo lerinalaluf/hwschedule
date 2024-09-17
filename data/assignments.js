@@ -252,6 +252,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab I.M3 Worksheet (aka Intro Lab 3: Densities and g)",
+      "course": "Physics 5BL",
+      "dueDate": "2024-09-18T19:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
+    },
+    {
       "title": "Lab I.M1 (aka Intro Lab #1) Worksheet",
       "course": "Physics 5BL",
       "dueDate": "2024-09-11T19:00:00",
