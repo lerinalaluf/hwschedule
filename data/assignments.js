@@ -153,8 +153,8 @@ assignments = {
       "title": "Mini-Vitamin 3B",
       "course": "CS 70",
       "dueDate": "2024-09-19T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/4969595/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/4969595/submissions/269372084",
+      "submitted": true
     },
     {
       "title": "Discussion Attendance",
