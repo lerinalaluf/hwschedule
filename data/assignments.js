@@ -310,7 +310,7 @@ assignments = {
     {
       "title": "Lab Report - Intro Lab 4: Spring constant",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-07T23:59:00",
+      "dueDate": "2024-09-20T23:59:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
