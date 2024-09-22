@@ -315,9 +315,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Prelab - Intro Lab 6: Torsional pendulum",
+      "title": "Pre-Lab I.M6 (Torsional pendulum)",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-12T10:00:00",
+      "dueDate": "2024-09-24T10:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
