@@ -318,8 +318,8 @@ assignments = {
       "title": "Lab Report - Intro Lab 4: Spring constant",
       "course": "Physics 5BL",
       "dueDate": "2024-09-20T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856551/submissions/269833034",
+      "submitted": true
     },
     {
       "title": "Pre-Lab I.M6 (Torsional pendulum)",
