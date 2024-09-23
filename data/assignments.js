@@ -67,7 +67,7 @@ assignments = {
       "title": "Project 1B: ArrayDeque",
       "course": "CS 61B",
       "dueDate": "2024-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/4918134/submissions/270313146",
+      "link": "https://www.gradescope.com/courses/845096/assignments/4918134/submissions/270327440",
       "submitted": true
     },
     {
