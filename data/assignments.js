@@ -346,8 +346,8 @@ assignments = {
       "title": "Pre-Lab I.M6 (Torsional pendulum)",
       "course": "Physics 5BL",
       "dueDate": "2024-09-24T10:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856552/submissions/270754339",
+      "submitted": true
     },
     {
       "title": "Lab Report - Intro Lab 5: Static friction",
