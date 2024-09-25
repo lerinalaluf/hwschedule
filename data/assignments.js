@@ -174,7 +174,7 @@ assignments = {
       "title": "Mini-Vitamin 4A",
       "course": "CS 70",
       "dueDate": "2024-09-24T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5021761/submissions/new",
+      "link": "https://www.gradescope.com/courses/836005",
       "submitted": false
     },
     {
