@@ -350,9 +350,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab Report - Intro Lab 5: Static friction",
+      "title": "Lab I.M5 Worksheet (Static friction)",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-12T23:59:00",
+      "dueDate": "2024-09-25T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
