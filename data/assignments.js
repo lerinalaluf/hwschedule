@@ -381,8 +381,8 @@ assignments = {
       "title": "Pre-Lab T1.M7 (aka Pre-Lab #7)",
       "course": "Physics 5BL",
       "dueDate": "2024-09-26T10:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/5040769/submissions/271508215",
+      "submitted": true
     }
   ]
 };
