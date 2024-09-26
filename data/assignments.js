@@ -353,8 +353,8 @@ assignments = {
       "title": "Lab I.M5 Worksheet (Static friction)",
       "course": "Physics 5BL",
       "dueDate": "2024-09-25T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856553/submissions/271431717",
+      "submitted": true
     },
     {
       "title": "Capstone Report",
