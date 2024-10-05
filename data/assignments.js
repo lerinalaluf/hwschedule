@@ -71,6 +71,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Project 2A: Ngrams",
+      "course": "CS 61B",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
       "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
       "course": "CS 61B",
       "dueDate": "2024-09-20T23:59:00",
