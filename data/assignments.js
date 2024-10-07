@@ -310,7 +310,7 @@ assignments = {
     {
       "title": "Prelab - Intro EM1: DC",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-26T10:00:00",
+      "dueDate": "2024-10-08T10:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
