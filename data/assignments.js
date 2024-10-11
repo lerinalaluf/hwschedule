@@ -315,9 +315,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab Report Draft - Lab 7",
+      "title": "Lab Report T1.M7 (aka Lab 7)",
       "course": "Physics 5BL",
-      "dueDate": "2024-02-24T23:59:00",
+      "dueDate": "2024-10-11T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
