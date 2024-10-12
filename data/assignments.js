@@ -318,8 +318,8 @@ assignments = {
       "title": "Lab Report T1.M7 (aka Lab 7)",
       "course": "Physics 5BL",
       "dueDate": "2024-10-11T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856537/submissions/277187328",
+      "submitted": true
     },
     {
       "title": "Prelab - Intro EM1: DC",
