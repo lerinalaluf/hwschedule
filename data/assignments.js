@@ -244,8 +244,8 @@ assignments = {
       "title": "Homework 6",
       "course": "CS 70",
       "dueDate": "2024-10-12T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5113447/submissions/277362011",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 6A",
@@ -460,6 +460,13 @@ assignments = {
       "dueDate": "2024-09-26T10:10:00",
       "link": "https://www.gradescope.com/courses/849578/assignments/5040769/submissions/271508215",
       "submitted": true
+    },
+    {
+      "title": "Pre-Lab T1.EM2 (aka Pre-Lab 9)",
+      "course": "Physics 5BL",
+      "dueDate": "2024-10-15T10:10:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
     }
   ]
 };
