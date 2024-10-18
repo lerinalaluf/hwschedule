@@ -371,9 +371,9 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Lab worksheet submission - Intro EM1: DC",
+      "title": "T1.EM1 (aka Lab #8) Report",
       "course": "Physics 5BL",
-      "dueDate": "2024-03-07T23:59:00",
+      "dueDate": "2024-10-18T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
