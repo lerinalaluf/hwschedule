@@ -134,13 +134,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Project 2B: Checkpoint",
-      "course": "CS 61B",
-      "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/5117647/submissions/new",
-      "submitted": false
-    },
-    {
       "title": "Homework 3: Midterm 2 Conceptual Review",
       "course": "CS 61B",
       "dueDate": "2024-10-21T23:59:00",
@@ -339,6 +332,13 @@ assignments = {
       "dueDate": "2024-10-16T10:00:00",
       "link": "https://www.gradescope.com/courses/861518/assignments/5154034/submissions/278413498",
       "submitted": true
+    },
+    {
+      "title": "Assignment 6",
+      "course": "Physics 5B",
+      "dueDate": "2024-10-21T10:01:00",
+      "link": "https://www.gradescope.com/courses/861518",
+      "submitted": false
     }
   ],
   "Physics 5BL": [
