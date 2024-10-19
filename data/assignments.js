@@ -78,6 +78,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Project 2B: Wordnet",
+      "course": "CS 61B",
+      "dueDate": "2024-11-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
       "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
       "course": "CS 61B",
       "dueDate": "2024-09-20T23:59:00",
@@ -111,6 +118,13 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/845096/assignments/4960732/submissions/274827478",
       "submitted": true
+    },
+    {
+      "title": "Project 2B: Design Document",
+      "course": "CS 61B",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     },
     {
       "title": "Lab 07",
@@ -374,8 +388,8 @@ assignments = {
       "title": "T1.EM1 (aka Lab #8) Report",
       "course": "Physics 5BL",
       "dueDate": "2024-10-18T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856540/submissions/279647808",
+      "submitted": true
     },
     {
       "title": "Lab I.M6 Worksheet (aka Intro Lab 6: Torsional Pendulum)",
