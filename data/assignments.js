@@ -395,8 +395,8 @@ assignments = {
       "title": "Lab I.M6 Worksheet (aka Intro Lab 6: Torsional Pendulum)",
       "course": "Physics 5BL",
       "dueDate": "2024-10-04T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856541/submissions/274699139",
+      "submitted": true
     },
     {
       "title": "Lab I.M2 Worksheet",
