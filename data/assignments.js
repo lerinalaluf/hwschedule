@@ -307,8 +307,8 @@ assignments = {
       "title": "Mini-Vitamin 8A",
       "course": "CS 70",
       "dueDate": "2024-10-22T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5180622/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5180622/submissions/280178616",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 8B",
@@ -358,8 +358,8 @@ assignments = {
       "title": "Assignment 6",
       "course": "Physics 5B",
       "dueDate": "2024-10-21T10:01:00",
-      "link": "https://www.gradescope.com/courses/861518",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/861518/assignments/5187201/submissions/280176386",
+      "submitted": true
     }
   ],
   "Physics 5BL": [
