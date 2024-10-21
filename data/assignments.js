@@ -144,8 +144,8 @@ assignments = {
       "title": "Homework 3: Midterm 2 Conceptual Review",
       "course": "CS 61B",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/5166359/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5166359/submissions/280182028",
+      "submitted": true
     }
   ],
   "CS 70": [
