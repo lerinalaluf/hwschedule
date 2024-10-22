@@ -542,8 +542,8 @@ assignments = {
       "title": "Pre-Lab T1.EM3 (RC and RLC circuits)",
       "course": "Physics 5BL",
       "dueDate": "2024-10-22T10:10:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/5189530/submissions/280489088",
+      "submitted": true
     }
   ]
 };
