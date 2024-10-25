@@ -469,9 +469,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Lab Worksheet submission - Intro EM2: AC",
+      "title": "Lab T1.EM2 Report (AC Circuits)",
       "course": "Physics 5BL",
-      "dueDate": "2024-03-14T23:59:00",
+      "dueDate": "2024-10-25T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
