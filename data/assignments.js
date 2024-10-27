@@ -328,8 +328,8 @@ assignments = {
       "title": "Homework 8",
       "course": "CS 70",
       "dueDate": "2024-10-26T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5199704/submissions/282454102",
+      "submitted": true
     }
   ],
   "Physics 5B": [
