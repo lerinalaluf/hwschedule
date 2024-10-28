@@ -330,6 +330,20 @@ assignments = {
       "dueDate": "2024-10-26T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5199704/submissions/282454102",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 9A",
+      "course": "CS 70",
+      "dueDate": "2024-10-29T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208804/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 9B",
+      "course": "CS 70",
+      "dueDate": "2024-10-31T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5208929/submissions/new",
+      "submitted": false
     }
   ],
   "Physics 5B": [
@@ -374,6 +388,13 @@ assignments = {
       "dueDate": "2024-10-21T10:01:00",
       "link": "https://www.gradescope.com/courses/861518/assignments/5187201/submissions/280176386",
       "submitted": true
+    },
+    {
+      "title": "Assignment 7",
+      "course": "Physics 5B",
+      "dueDate": "2024-10-28T22:01:00",
+      "link": "https://www.gradescope.com/courses/861518",
+      "submitted": false
     }
   ],
   "Physics 5BL": [
