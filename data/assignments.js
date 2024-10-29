@@ -590,7 +590,7 @@ assignments = {
     {
       "title": "Pre-Lab T2.M7 (Standing Waves)",
       "course": "Physics 5BL",
-      "dueDate": "2024-10-28T13:30:00",
+      "dueDate": "2024-10-29T10:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     }
