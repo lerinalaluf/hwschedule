@@ -151,8 +151,8 @@ assignments = {
       "title": "Project 2B: Design Document",
       "course": "CS 61B",
       "dueDate": "2024-10-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5199523/submissions/283144249",
+      "submitted": true
     }
   ],
   "CS 70": [
@@ -400,8 +400,8 @@ assignments = {
       "title": "Assignment 7",
       "course": "Physics 5B",
       "dueDate": "2024-10-28T22:01:00",
-      "link": "https://www.gradescope.com/courses/861518",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/861518/assignments/5228433/submissions/283154363",
+      "submitted": true
     }
   ],
   "Physics 5BL": [
