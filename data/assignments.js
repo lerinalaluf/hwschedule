@@ -504,9 +504,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Lab report submission - Tier 1: RC/RLC",
+      "title": "Lab T1.EM3 Report (RC and RLC Circuits)",
       "course": "Physics 5BL",
-      "dueDate": "2024-03-22T23:59:00",
+      "dueDate": "2024-11-01T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
