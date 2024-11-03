@@ -593,6 +593,13 @@ assignments = {
       "dueDate": "2024-10-29T10:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
+    },
+    {
+      "title": "Pre-Lab T2.EM4 (aka Pre-Lab #12)",
+      "course": "Physics 5BL",
+      "dueDate": "2024-11-05T10:10:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
     }
   ]
 };
