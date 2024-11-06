@@ -80,7 +80,7 @@ assignments = {
     {
       "title": "Project 2B: Wordnet",
       "course": "CS 61B",
-      "dueDate": "2024-11-08T23:59:00",
+      "dueDate": "2024-11-12T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
       "submitted": false
     },
