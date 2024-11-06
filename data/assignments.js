@@ -153,6 +153,20 @@ assignments = {
       "dueDate": "2024-10-28T23:59:00",
       "link": "https://www.gradescope.com/courses/845096/assignments/5199523/submissions/283144249",
       "submitted": true
+    },
+    {
+      "title": "[UNGRADED] Lab 09",
+      "course": "CS 61B",
+      "dueDate": "2024-04-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
+      "title": "[UNGRADED] Lab 10",
+      "course": "CS 61B",
+      "dueDate": "2024-04-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
     }
   ],
   "CS 70": [
