@@ -635,6 +635,13 @@ assignments = {
       "dueDate": "2024-11-05T10:10:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
+    },
+    {
+      "title": "Capstone Project Proposal: First Draft",
+      "course": "Physics 5BL",
+      "dueDate": "2024-11-07T19:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
     }
   ]
 };
