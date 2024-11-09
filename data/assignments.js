@@ -127,6 +127,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "[UNGRADED] Project 3A: World Generation",
+      "course": "CS 61B",
+      "dueDate": "2024-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096",
+      "submitted": false
+    },
+    {
       "title": "Lab 07",
       "course": "CS 61B",
       "dueDate": "2024-10-18T23:59:00",
