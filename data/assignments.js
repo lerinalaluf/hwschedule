@@ -81,8 +81,8 @@ assignments = {
       "title": "Project 2B: Wordnet",
       "course": "CS 61B",
       "dueDate": "2024-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/4928305/submissions/287727329",
+      "submitted": true
     },
     {
       "title": "[UNGRADED] Project 1B: ArrayDeque Test Coverage",
