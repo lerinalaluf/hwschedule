@@ -597,7 +597,7 @@ assignments = {
     {
       "title": "Lab report submission - Tier 2: Standing Waves",
       "course": "Physics 5BL",
-      "dueDate": "2024-04-05T23:59:00",
+      "dueDate": "2024-11-13T23:59:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
