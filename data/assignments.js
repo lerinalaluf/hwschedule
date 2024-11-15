@@ -567,9 +567,9 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Lab report submission - Tier 2: EM-Faraday's Law",
+      "title": "Lab T2.EM4 Report (Magnetism and Faraday's Law)",
       "course": "Physics 5BL",
-      "dueDate": "2024-04-05T23:59:00",
+      "dueDate": "2024-11-15T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
@@ -684,6 +684,13 @@ assignments = {
       "dueDate": "2024-11-07T19:00:00",
       "link": "https://www.gradescope.com/courses/849578/assignments/5282383/submissions/286748936",
       "submitted": true
+    },
+    {
+      "title": "Capstone Proposal Second Draft",
+      "course": "Physics 5BL",
+      "dueDate": "2024-11-15T19:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
     }
   ]
 };
