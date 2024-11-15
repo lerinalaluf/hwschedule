@@ -419,8 +419,8 @@ assignments = {
       "title": "Mini-Vitamin 11B",
       "course": "CS 70",
       "dueDate": "2024-11-14T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5283741/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5283741/submissions/289167272",
+      "submitted": true
     },
     {
       "title": "Homework 11",
