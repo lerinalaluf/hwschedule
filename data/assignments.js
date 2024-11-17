@@ -691,6 +691,13 @@ assignments = {
       "dueDate": "2024-11-15T19:00:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
+    },
+    {
+      "title": "Peer Review of Capstone Proposal ",
+      "course": "Physics 5BL",
+      "dueDate": "2024-11-19T19:00:00",
+      "link": "https://www.gradescope.com/courses/849578",
+      "submitted": false
     }
   ]
 };
