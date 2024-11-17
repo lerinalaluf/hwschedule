@@ -426,8 +426,8 @@ assignments = {
       "title": "Homework 11",
       "course": "CS 70",
       "dueDate": "2024-11-16T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5308437/submissions/289859001",
+      "submitted": true
     }
   ],
   "Physics 5B": [
