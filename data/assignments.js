@@ -493,6 +493,20 @@ assignments = {
       "dueDate": "2024-10-28T22:01:00",
       "link": "https://www.gradescope.com/courses/861518/assignments/5228433/submissions/283154363",
       "submitted": true
+    },
+    {
+      "title": "Assignment 8",
+      "course": "Physics 5B",
+      "dueDate": "2024-11-18T22:01:00",
+      "link": "https://www.gradescope.com/courses/861518",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 9",
+      "course": "Physics 5B",
+      "dueDate": "2024-11-25T10:01:00",
+      "link": "https://www.gradescope.com/courses/861518",
+      "submitted": false
     }
   ],
   "Physics 5BL": [
