@@ -428,6 +428,20 @@ assignments = {
       "dueDate": "2024-11-16T16:00:00",
       "link": "https://www.gradescope.com/courses/836005/assignments/5308437/submissions/289859001",
       "submitted": true
+    },
+    {
+      "title": "Mini-Vitamin 12A",
+      "course": "CS 70",
+      "dueDate": "2024-11-19T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5326043/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Mini-Vitamin 12B",
+      "course": "CS 70",
+      "dueDate": "2024-11-21T19:30:00",
+      "link": "https://www.gradescope.com/courses/836005/assignments/5326045/submissions/new",
+      "submitted": false
     }
   ],
   "Physics 5B": [
