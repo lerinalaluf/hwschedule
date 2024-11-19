@@ -186,8 +186,8 @@ assignments = {
       "title": "Project 3A: World Screenshots",
       "course": "CS 61B",
       "dueDate": "2024-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5312385/submissions/290598375",
+      "submitted": true
     }
   ],
   "CS 70": [
