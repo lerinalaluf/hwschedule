@@ -134,7 +134,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "[UNGRADED] Project 3B/C: Interactivity + Ambition",
+      "title": "[UNGRADED] Project 3B: Interactivity and Ambition",
       "course": "CS 61B",
       "dueDate": "2024-11-26T23:59:00",
       "link": "https://www.gradescope.com/courses/845096",
