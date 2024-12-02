@@ -188,6 +188,13 @@ assignments = {
       "dueDate": "2024-11-18T23:59:00",
       "link": "https://www.gradescope.com/courses/845096/assignments/5312385/submissions/290598375",
       "submitted": true
+    },
+    {
+      "title": "Homework 4: Final Exam Review",
+      "course": "CS 61B",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/845096/assignments/5399896/submissions/new",
+      "submitted": false
     }
   ],
   "CS 70": [
