@@ -468,22 +468,22 @@ assignments = {
       "title": "Homework 13",
       "course": "CS 70",
       "dueDate": "2024-12-02T16:00:00",
-      "link": "https://www.gradescope.com/courses/836005",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5380517/submissions/294072128",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 14B",
       "course": "CS 70",
       "dueDate": "2024-12-05T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5393150/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5393150/submissions/294073177",
+      "submitted": true
     },
     {
       "title": "Mini-Vitamin 14A",
       "course": "CS 70",
       "dueDate": "2024-12-05T19:30:00",
-      "link": "https://www.gradescope.com/courses/836005/assignments/5393151/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/836005/assignments/5393151/submissions/294072772",
+      "submitted": true
     },
     {
       "title": "Homework 14",
