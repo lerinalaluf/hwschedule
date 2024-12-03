@@ -779,7 +779,7 @@ assignments = {
     {
       "title": "Capstone Abstract",
       "course": "Physics 5BL",
-      "dueDate": "2024-12-02T19:00:00",
+      "dueDate": "2024-12-03T12:40:00",
       "link": "https://www.gradescope.com/courses/849578/assignments/5395582/submissions/293997374",
       "submitted": true
     }
