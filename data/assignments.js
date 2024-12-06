@@ -561,8 +561,8 @@ assignments = {
       "title": "Assignment 10",
       "course": "Physics 5B",
       "dueDate": "2024-12-06T10:02:00",
-      "link": "https://www.gradescope.com/courses/861518",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/861518/assignments/5405721/submissions/295083998",
+      "submitted": true
     }
   ],
   "Physics 5BL": [
