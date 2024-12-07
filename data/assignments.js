@@ -193,8 +193,8 @@ assignments = {
       "title": "Homework 4: Final Exam Review",
       "course": "CS 61B",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096/assignments/5399896/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/5399896/submissions/295359139",
+      "submitted": true
     }
   ],
   "CS 70": [
@@ -794,8 +794,8 @@ assignments = {
       "title": "Capstone Presentation Slides",
       "course": "Physics 5BL",
       "dueDate": "2024-12-06T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/5424119/submissions/295356884",
+      "submitted": true
     }
   ]
 };
