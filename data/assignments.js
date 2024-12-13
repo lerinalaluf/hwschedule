@@ -709,7 +709,7 @@ assignments = {
     {
       "title": "Capstone Report",
       "course": "Physics 5BL",
-      "dueDate": "2024-05-04T23:59:00",
+      "dueDate": "2024-12-13T23:59:00",
       "link": "https://www.gradescope.com/courses/849578",
       "submitted": false
     },
