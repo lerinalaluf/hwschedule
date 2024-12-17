@@ -633,8 +633,8 @@ assignments = {
       "title": "Lab I.M3 Worksheet (aka Intro Lab 3: Densities and g)",
       "course": "Physics 5BL",
       "dueDate": "2024-09-18T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856543/submissions/297914321",
+      "submitted": true
     },
     {
       "title": "Lab I.M1 (aka Intro Lab #1) Worksheet",
@@ -654,22 +654,22 @@ assignments = {
       "title": "Lab T2.EM4 Report (Magnetism and Faraday's Law)",
       "course": "Physics 5BL",
       "dueDate": "2024-11-15T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856546/submissions/297914539",
+      "submitted": true
     },
     {
       "title": "Lab T1.EM2 Report (AC Circuits)",
       "course": "Physics 5BL",
       "dueDate": "2024-10-25T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856547/submissions/297914305",
+      "submitted": true
     },
     {
       "title": "Lab T1.EM3 Report (RC and RLC Circuits)",
       "course": "Physics 5BL",
       "dueDate": "2024-11-01T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856548/submissions/297914341",
+      "submitted": true
     },
     {
       "title": "Capstone Presentation",
@@ -682,7 +682,7 @@ assignments = {
       "title": "Lab report submission - Tier 2: Standing Waves",
       "course": "Physics 5BL",
       "dueDate": "2024-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/849578/assignments/4856550/submissions/297880343",
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856550/submissions/297914477",
       "submitted": true
     },
     {
