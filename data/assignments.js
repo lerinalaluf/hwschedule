@@ -95,8 +95,8 @@ assignments = {
       "title": "Homework 2",
       "course": "CS 61B",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/845096",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845096/assignments/4946210/submissions/297900013",
+      "submitted": true
     },
     {
       "title": "Lab 04",
