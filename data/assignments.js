@@ -547,8 +547,8 @@ assignments = {
       "title": "Assignment 8",
       "course": "Physics 5B",
       "dueDate": "2024-11-18T22:01:00",
-      "link": "https://www.gradescope.com/courses/861518",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/861518/assignments/5339058/submissions/298359554",
+      "submitted": true
     },
     {
       "title": "Assignment 9",
