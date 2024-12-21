@@ -654,7 +654,7 @@ assignments = {
       "title": "Lab T2.EM4 Report (Magnetism and Faraday's Law)",
       "course": "Physics 5BL",
       "dueDate": "2024-11-15T19:00:00",
-      "link": "https://www.gradescope.com/courses/849578/assignments/4856546/submissions/297914539",
+      "link": "https://www.gradescope.com/courses/849578/assignments/4856546/submissions/298537430",
       "submitted": true
     },
     {
