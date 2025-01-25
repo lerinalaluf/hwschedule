@@ -8,5 +8,13 @@ assignments = {
       "submitted": false
     }
   ],
-  "PHYSICS 5C-LEC-001": []
+  "PHYSICS 5C-LEC-001": [
+    {
+      "title": "HW01",
+      "course": "PHYSICS 5C-LEC-001",
+      "dueDate": "2025-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/957311",
+      "submitted": false
+    }
+  ]
 };
