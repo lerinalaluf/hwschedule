@@ -33,6 +33,13 @@ assignments = {
   ],
   "Physics 5CL - 101": [
     {
+      "title": "Lab Report 0",
+      "course": "Physics 5CL - 101",
+      "dueDate": "2025-02-14T19:00:00",
+      "link": "https://www.gradescope.com/courses/970304",
+      "submitted": false
+    },
+    {
       "title": "Pre-Lab 7",
       "course": "Physics 5CL - 101",
       "dueDate": "2025-04-02T11:15:00",
