@@ -40,20 +40,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Pre-Lab 7",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-04-02T11:15:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
-      "title": "Pre-Lab 3",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-02-26T11:15:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
       "title": "Pre-Lab 0",
       "course": "Physics 5CL - 101",
       "dueDate": "2025-01-30T10:10:00",
@@ -63,35 +49,7 @@ assignments = {
     {
       "title": "Pre-Lab 1",
       "course": "Physics 5CL - 101",
-      "dueDate": "2025-02-05T11:20:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
-      "title": "Pre-Lab 2",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-02-14T11:15:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
-      "title": "Pre-Lab 4",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-03-04T11:15:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
-      "title": "Pre-Lab 6",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-03-18T11:15:00",
-      "link": "https://www.gradescope.com/courses/970304",
-      "submitted": false
-    },
-    {
-      "title": "Pre-Lab 5",
-      "course": "Physics 5CL - 101",
-      "dueDate": "2025-03-11T11:15:00",
+      "dueDate": "2025-02-10T10:00:00",
       "link": "https://www.gradescope.com/courses/970304",
       "submitted": false
     }
