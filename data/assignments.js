@@ -90,8 +90,8 @@ assignments = {
       "title": "HW06",
       "course": "PHYSICS 5C-LEC-001",
       "dueDate": "2025-03-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/957311",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/957311/assignments/5872679/submissions/315735000",
+      "submitted": true
     },
     {
       "title": "HW07",
