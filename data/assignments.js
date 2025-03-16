@@ -45,7 +45,7 @@ assignments = {
     {
       "title": "89 HW 7",
       "course": "PHYS 89",
-      "dueDate": "2025-03-17T11:59:00",
+      "dueDate": "2025-03-17T23:59:00",
       "link": "https://www.gradescope.com/courses/959672",
       "submitted": false
     }
