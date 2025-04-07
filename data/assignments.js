@@ -127,6 +127,13 @@ assignments = {
       "dueDate": "2025-04-04T23:59:00",
       "link": "https://www.gradescope.com/courses/957311/assignments/5997927/submissions/322683457",
       "submitted": true
+    },
+    {
+      "title": "HW10",
+      "course": "PHYSICS 5C-LEC-001",
+      "dueDate": "2025-04-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/957311",
+      "submitted": false
     }
   ],
   "Physics 5CL - 101": [
