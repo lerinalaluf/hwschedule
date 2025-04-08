@@ -154,7 +154,7 @@ assignments = {
     {
       "title": "Capstone Proposal Rough Draft",
       "course": "Physics 5CL - 101",
-      "dueDate": "2025-04-08T19:00:00",
+      "dueDate": "2025-04-08T23:59:00",
       "link": "https://www.gradescope.com/courses/970304",
       "submitted": false
     },
@@ -169,6 +169,13 @@ assignments = {
       "title": "Lab Report 6",
       "course": "Physics 5CL - 101",
       "dueDate": "2025-04-14T19:00:00",
+      "link": "https://www.gradescope.com/courses/970304",
+      "submitted": false
+    },
+    {
+      "title": "Lab Report 7",
+      "course": "Physics 5CL - 101",
+      "dueDate": "2025-04-21T19:00:00",
       "link": "https://www.gradescope.com/courses/970304",
       "submitted": false
     },
