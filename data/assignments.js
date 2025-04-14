@@ -62,6 +62,13 @@ assignments = {
       "dueDate": "2025-04-14T23:59:00",
       "link": "https://www.gradescope.com/courses/959672",
       "submitted": false
+    },
+    {
+      "title": "89 HW 10",
+      "course": "PHYS 89",
+      "dueDate": "2025-04-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/959672",
+      "submitted": false
     }
   ],
   "PHYSICS 5C-LEC-001": [
